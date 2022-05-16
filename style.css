@@ -355,6 +355,7 @@ h4 {
 
 .operations__icon--1 {
   background-color: #7cb6d1;
+  
 }
 /* .operations__icon--2 {
   background-color: #daad72;
@@ -503,9 +504,9 @@ h4 {
 }
 
 .testimonial__photo {
-  grid-row: 1 / span 2;
-  width: 6.5rem;
-  border-radius: 50%;
+  grid-row: 1/1;
+  width: 10rem;
+  border-radius: 80%;
 }
 
 .testimonial__name {
