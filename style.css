@@ -237,13 +237,13 @@ h4 {
 }
 
 .secc1__img {
-  width: 100%;
+  width: 95%;
 }
 
 .secc1__feature {
   align-self: center;
   justify-self: center;
-  width: 70%;
+  width: 100%;
   font-size: 1.5rem;
 }
 
